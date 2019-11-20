@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Administrative GIS</title>
-  <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/map.css">
+  <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
     crossorigin="" />
 </head>
 
-<body>
+<body class="h-screen w-screen bg-gray-200">
   <!-- The core Firebase JS SDK is always required and must be listed first -->
   <script src="/__/firebase/7.4.0/firebase-app.js"></script>
 
@@ -23,7 +23,25 @@
 
   <!-- Initialize Firebase -->
   <script src="/__/firebase/init.js"></script>
-  <div id="map">
+  <div class="flex flex-wrap">
+    <!-- Description -->
+    <div class="max-w-sm rounded overflow-hidden shadow-lg absolute z-40 bg-gray-900 ml-2 mt-20">
+      <img id="pict" class="w-full h-64 object-cover" src="img/universitasmuhammadiyahmakassar.jpg"
+        alt="Sunset in the mountains">
+      <div class="px-6 py-4">
+        <div id="title" class="font-bold text-xl mb-2 text-white">Rappocini</div>
+        <p id="desc" class="text-gray-500 text-base h-32">
+        </p>
+      </div>
+      <div class="px-6 py-4">
+        <span id="type"
+          class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">Kecamatan</span>
+      </div>
+    </div>
+    <!-- Map -->
+    <div class="w-full h-screen z-0 absolute">
+      <div class="h-full w-full" id="map"></div>
+    </div>
   </div>
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
