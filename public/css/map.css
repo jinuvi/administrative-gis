@@ -4,3 +4,157 @@
     /* padding: 2rem; */
     margin: 0 auto;
 }
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(255, 166, 0, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(255, 251, 0, 0.61);
+  }
+
+.bank {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(248, 17, 29, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(224, 161, 170, 0.61);
+}
+
+.kantorPolisi {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(255, 0, 242, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(240, 182, 225, 0.61);
+}
+
+.makam {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(0, 247, 255, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(176, 234, 236, 0.61);
+}
+
+.pemerintahan {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(4, 0, 255, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(164, 154, 216, 0.61);
+}
+
+.pemukiman {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(43, 255, 0, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(191, 228, 197, 0.61);
+}
+
+.penginapan {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(153, 0, 255, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(228, 196, 235, 0.61);
+}
+
+.perguruanTinggi {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(27, 109, 33, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(120, 148, 124, 0.61);
+}
+
+.rumahSakit {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(255, 60, 0, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(245, 220, 188, 0.61);
+}
+
+.sekolah {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(8, 38, 136, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(124, 127, 158, 0.61);
+}
+
+.spbu {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(0, 255, 157, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(147, 182, 173, 0.61);
+}
+
+.tempatIbadah {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(38, 9, 71, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(192, 152, 196, 0.61);
+}
+
+.travel {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(0, 195, 255, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(203, 224, 230, 0.61);
+}
+
+.saranaOlahraga {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow:
+        0 0 10px 5px rgb(255, 255, 255),  /* inner white */
+        0 0 60px 30px rgba(190, 10, 19, 0.774), /* middle magenta */
+        0 0 60px 30px rgba(228, 175, 175, 0.61);
+}
