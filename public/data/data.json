@@ -1,0 +1,784 @@
+{
+    "places": [
+        {
+            "cord": [
+                -5.1522735,
+                119.4265403
+            ],
+            "title": "Mesjid Nurul Jannah",
+            "pict": "../img/mesjidnuruljannah.jpg",
+            "desc": "Jl. Rappocini Raya No.9, Rappocini, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1565809,
+                119.4278778
+            ],
+            "title": "Politeknik Kesehatan Makassar Jurusan Kesehatan Lingkungan",
+            "pict": "../img/pkmjkl.jpg",
+            "desc": "Jl. Wijaya Kusuma I No.2, Banta-Bantaeng, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Perguruan Tinggi"
+        },
+        {
+            "cord": [
+                -5.1559564,
+                119.4278413
+            ],
+            "title": "Mesjid Al Imran Banta2Eng",
+            "pict": "../img/mesjidalimran.jpg",
+            "desc": "No., Jl. Wijaya Kusuma I No.57, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1561017,
+                119.4278049
+            ],
+            "title": "Politeknik Kesehatan Makassar Jurusan Analis Kesehatan",
+            "pict": "../img/pkmjak.jpg",
+            "desc": "Jl. Wijaya Kusuma No.56, Banta-Bantaeng, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Perguruan Tinggi"
+        },
+        {
+            "cord": [
+                -5.1592892,
+                119.426376
+            ],
+            "title": "Balai Teknik Kesehatan Lingkungan dan Pengendalian Penyakit BTKLPP Kelas I Makassar",
+            "pict": "../img/btklpp.jpg",
+            "desc": "Jl. Wijaya Kusuma No.29-31, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Pemerintahan"
+        },
+        {
+            "cord": [
+                -5.1601391,
+                119.4254488
+            ],
+            "title": "Masjid Shihhatul Iman",
+            "pict": "../img/mesjidiman.jpg",
+            "desc": "Jl. Wijaya Kusuma No.4, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1613469,
+                119.4254892
+            ],
+            "title": "Masjid Muhajirin",
+            "pict": "../img/mesjidmuhajirin.jpg",
+            "desc": "Jl. Banta Bantaeng No.68, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1608839,
+                119.4258076
+            ],
+            "title": "Masjid Nurul Ikhlas UNM",
+            "pict": "../img/mesjidnurulikhlas.jpg",
+            "desc": "Jl. Wijaya Kusuma No.48, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1604033,
+                119.4265327
+            ],
+            "title": "Masjid Babussalam",
+            "pict": "../img/mesjidbabussalam.jpg",
+            "desc": "JL. Wijaya Kusuma, No. 100 C, Banta-Bantaeng, Kec. Makassar, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1623485,
+                119.4242844
+            ],
+            "title": "Masjid Fajar Shadiq",
+            "pict": "../img/mesjidfajar.jpg",
+            "desc": "Jl.Andi Djemma (ex. Jl. Landak Baru, Jl. Banta Bantaeng Lrg. 2 No.2, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1652554,
+                119.4232987
+            ],
+            "title": "Masjid Jannatunnaim",
+            "pict": "../img/mesjidjannatun.jpg",
+            "desc": "Jl. Andi Djemma No.18, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1663263,
+                119.42353
+            ],
+            "title": "Masjid Baiturahmah Bontolanra",
+            "pict": "../img/mesjidbait.jpg",
+            "desc": "No./, Jl. Sultan Alauddin No.1/22, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90133",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1663263,
+                119.42353
+            ],
+            "title": "Masjid Amamah",
+            "pict": "../img/mesjidamamah.jpg",
+            "desc": "Jl. Landak Baru Lorong 3 Jl. Bonto Lanra No.15, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1660814,
+                119.4240577
+            ],
+            "title": "Masjid Baitur Razzaq",
+            "pict": "../img/mesjidbaitur.jpg",
+            "desc": "Jl. Andi Djemma, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.168952,
+                119.4310685
+            ],
+            "title": "SMK Negeri 6 Makassar",
+            "pict": "../img/smknegeri6makassar.jpg",
+            "desc": "Jl. Andi Djemma No.132, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90223",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.1685637,
+                119.4334531
+            ],
+            "title": "Dinas Pemberdayaan Masyarakat dan Desa",
+            "pict": "../img/dinaspemberdayaanmasyarakatdandesa.jpg",
+            "desc": "Jl. Bonto Langkasa No.7-9, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Pemerintahan"
+        },
+        {
+            "cord": [
+                -5.165344,
+                119.4291821
+            ],
+            "title": "Bank Mandiri",
+            "pict": "../img/bankmandiri.jpg",
+            "desc": "Jalan Landak Baru, Mannuruki, Tamalate, Kota Makassar, Sulawesi Selatan, 90222, Indonesia, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Bank"
+        },
+        {
+            "cord": [
+                -5.1653379,
+                119.4291506
+            ],
+            "title": "Program Pasca Sarjana Universitas Negeri Makassar",
+            "pict": "../img/programpascasarjanaunm.jpg",
+            "desc": "Jalan Bonto Langkasa, Banta-Bantaeng, Rappocini, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Perguruan Tinggi"
+        },
+        {
+            "cord": [
+                -5.1743952,
+                119.4360408
+            ],
+            "title": "SMK TELKOM Makassar",
+            "pict": "../img/smktelkommakassar.jpg",
+            "desc": "Jl. A. P. Pettarani No.4, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.171195,
+                119.4339098
+            ],
+            "title": "Masjid Nurul Iman Telkom",
+            "pict": "../img/masjidnurulimamtelkom.jpg",
+            "desc": "Jl. A. P. Pettarani No.2, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1796492,
+                119.4396505
+            ],
+            "title": "Kementerian Pekerjaan Umum & Perumahan Rakyat",
+            "pict": "../img/kementerianpupr.jpg",
+            "desc": "Jl. Monumen Emmy Saelan No.109, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemerintahan"
+        },
+        {
+            "cord": [
+                -5.1815426,
+                119.4403936
+            ],
+            "title": "Kantor Unit Layanan Paspor Imigrasi Kelas I Makassar",
+            "pict": "../img/kantorunitlayananpasporimigrasikelas1makassar.jpg",
+            "desc": "Allauddin Plaza & Town House, Jl. Sultan Alauddin No.16-17, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemerintahan"
+        },
+        {
+            "cord": [
+                -5.1792398,
+                119.4396732
+            ],
+            "title": "Masjid Jami' Al-Azhar Gunungsari",
+            "pict": "../img/masjidjamialazhar.jpg",
+            "desc": "Jl. Sultan Alauddin No.247, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1830516,
+                119.4406446
+            ],
+            "title": "Universitas Muhammadiyah Makassar",
+            "pict": "../img/universitasmuhammadiyahmakassar.jpg",
+            "desc": "Jl. Sultan Alauddin No.259, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Perguruan Tinggi"
+        },
+        {
+            "cord": [
+                -5.1662516,
+                119.4272387
+            ],
+            "title": "LPMP Sulawesi Selatan",
+            "pict": "../img/lpmp.jpg",
+            "desc": "Jl. A. Pangerang Pettarani, Banta-Bantaeng, Makassar, Kota Makassar, Sulawesi Selatan 90915",
+            "type": "Pemerintahan"
+        },
+        {
+            "cord": [
+                -5.166843,
+                119.4324026
+            ],
+            "title": "La Macca",
+            "pict": "../img/lamacca.jpg",
+            "desc": "Jalan Pettarani, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.1751143,
+                119.4349627
+            ],
+            "title": "Gelanggang Futsal Telkom",
+            "pict": "../img/gelanggangfutsal.jpg",
+            "desc": "Jalan A. P. Pettarani No.2, Gunung Sari, Rappocini, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Sarana Olahraga"
+        },
+        {
+            "cord": [
+                -5.1751143,
+                119.4349627
+            ],
+            "title": "Super Futsal",
+            "pict": "../img/superfutsal.jpg",
+            "desc": "Jl. Rutan No.1, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Sarana Olahraga"
+        },
+        {
+            "cord": [
+                -5.1771879,
+                119.4385182
+            ],
+            "title": "Kompleks Graha Sari",
+            "pict": "../img/grahasari.jpg",
+            "desc": "No, Jalan Monumen Emmy Saelan No.111, Gunung Sari, Rappocini, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.1785704,
+                119.4403081
+            ],
+            "title": "Kantor Kelurahan Gunung Sari",
+            "pict": "../img/kelurahangunungsari.jpg",
+            "desc": "P & K, Jl. Talasalapang II Komp., Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemerintahan"
+        },
+        {
+            "cord": [
+                -5.1811048,
+                119.4419641
+            ],
+            "title": "Balai Besar Wilayah Sungai Pompengan-Jeneberang",
+            "pict": "../img/bbwspj.jpg",
+            "desc": "Jl. Bend. Bili Bili No.3, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Pemerintahan"
+        },
+        {
+            "cord": [
+                -5.183518,
+                119.442512
+            ],
+            "title": "FKIP Universitas Muhammadiyah Makassar",
+            "pict": "../img/fkipunismuh.jpg",
+            "desc": "Jl. Sultan Alauddin No.259, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Perguruan Tinggi"
+        },
+        {
+            "cord": [
+                -5.1871317,
+                119.4425607
+            ],
+            "title": "Dinas Kependudukan dan Catatan Sipil Kota Makassar",
+            "pict": "../img/dinascapil.jpg",
+            "desc": "Jl. Sultan Alauddin No.295, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemerintahan"
+        },
+        {
+            "cord": [
+                -5.1871317,
+                119.4425607
+            ],
+            "title": "Lagoosi Home",
+            "pict": "../img/lagoosi.jpg",
+            "desc": "Jl. Teduh Bersinar, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.1871317,
+                119.4425607
+            ],
+            "title": "Makam Pahlawan Nasional SYEKH YUSUF",
+            "pict": "../img/makamsyekhyusuf.jpg",
+            "desc": "Jl. Syech Yusuf, Gn. Sari, Kec. Rappocini, Kabupaten Gowa, Sulawesi Selatan 90222",
+            "type": "Makam"
+        },
+        {
+            "cord": [
+                -5.1871802,
+                119.4456778
+            ],
+            "title": "SCI JIPANG",
+            "pict": "../img/scijipang.jpg",
+            "desc": "Jalan Jipang Raya, Gunung Sari, Rappocini, Gunung Sari, Rappocini, Makassar City, South Sulawesi 90221",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.1871802,
+                119.4456778
+            ],
+            "title": "Perumahan Griya Minasa Sari",
+            "pict": "../img/perumahangriyaminasa.jpg",
+            "desc": "Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.188696,
+                119.4475408
+            ],
+            "title": "Sekolah Menengah Kejuruan Pelayaran Katangka Makassar",
+            "pict": "../img/smkpelayaran.jpg",
+            "desc": "Jl. Syech Yusuf No.97A, Katangka, Kec. Somba Opu, Kota Makassar, Sulawesi Selatan 92114",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.189084,
+                119.4499517
+            ],
+            "title": "Kompleks Kodam Katangka",
+            "pict": "../img/komplekskodam.jpg",
+            "desc": "Blok g Komp. Kodam VII WRB, Jl. Syeh Yusuf, Katangka, Kec. Rappocini, Sulawesi Selatan 90221",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.189084,
+                119.4499517
+            ],
+            "title": "Perumahan Dosen Politeknik Ilmu Pelayaran Makassar",
+            "pict": "../img/perdospoltek.jpg",
+            "desc": "Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 92114",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.1902845,
+                119.4541769
+            ],
+            "title": "Minasa Indah Residence",
+            "pict": "../img/minasaindah.jpg",
+            "desc": "Jl. Minasa Upa M1, Gunung Sari, Rappocini, Makassar City, South Sulawesi 92114",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.1881382,
+                119.4539456
+            ],
+            "title": "Mesjid Al Ikhlas",
+            "pict": "../img/mesjidalikhlas.jpg",
+            "desc": "Kompleks BTN. Minasa Upa, Jalan Aroepala Blok G9 No.9, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.1874489,
+                119.4481413
+            ],
+            "title": "Lapangan Olahraga Minasa UPA",
+            "pict": "../img/lapanganolahragaminasaupa.jpg",
+            "desc": "Jl. Aroepala, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Sarana Olahraga"
+        },
+        {
+            "cord": [
+                -5.1883874,
+                119.4542527
+            ],
+            "title": "Kompleks Anggrek Bulan Minasa Upa",
+            "pict": "../img/kompleksanggrekbulan.jpg",
+            "desc": "komplek anggrek minasa upa, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.186229,
+                119.458284
+            ],
+            "title": "Masjid Darul Falah",
+            "pict": "../img/mesjiddarulfalah.jpg",
+            "desc": "Kompleks Minasa UPA, Jalan Aroepala, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.183921,
+                119.459129
+            ],
+            "title": "Rumah Sakit Umum Bahagia Makassar",
+            "pict": "../img/rsubahagia.jpg",
+            "desc": "BTN Minasa Upa Blok H7 No. 9, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 42111",
+            "type": "Rumah Sakit"
+        },
+        {
+            "cord": [
+                -5.184903,
+                119.454440
+            ],
+            "title": "Sekolah Dasar Inpres Minasa Upa",
+            "pict": "../img/sdiminasaupa.jpg",
+            "desc": "Blok D6, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.183168,
+                119.460628
+            ],
+            "title": "Furqaani Fatimah Fuad Castle",
+            "pict": "../img/furqaani.jpg",
+            "desc": "Unnamed Road, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.182738,
+                119.462320
+            ],
+            "title": "Institut Sains Dan Teknologi Pembangunan Indonesia(YASPIM)",
+            "pict": "../img/yaspim.jpg",
+            "desc": "Jl. Inspeksi Kanal, Bangkala, Kec. Manggala, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Perguruan Tinggi"
+        },
+        {
+            "cord": [
+                -5.181569,
+                119.462251
+            ],
+            "title": "Sekolah Menengah Pertama Negeri 40 Makassar",
+            "pict": "../img/smp40.jpg",
+            "desc": "Jl. Aroeppala No.4, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.180390,
+                119.460213
+            ],
+            "title": "Masjid Al Furqan",
+            "pict": "../img/mesjidalfurqan.jpg",
+            "desc": "Jalan Areopala, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.180338,
+                119.462559
+            ],
+            "title": "Sekolah Islam Al-Azhar Makassar",
+            "pict": "../img/alazhar.jpg",
+            "desc": "Jl. Aroeppala Jl. Hertasning Baru, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90233",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.181489,
+                119.459902
+            ],
+            "title": "Pondok Arika Kost",
+            "pict": "../img/arikakost.jpg",
+            "desc": "Jl. Minasa Upa Raya, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.181350,
+                119.459779
+            ],
+            "title": "Pondok Marham",
+            "pict": "../img/pondokmarham.jpg",
+            "desc": "Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.181027,
+                119.458878
+            ],
+            "title": "Pondok 107",
+            "pict": "../img/pondok107.jpg",
+            "desc": "Jl. Minasa Upa N15 No.15, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.180327,
+                119.458395
+            ],
+            "title": "GRIYA MALEO INDAH B2",
+            "pict": "../img/griyamaleo.jpg",
+            "desc": "Unnamed Road, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.181553,
+                119.456745
+            ],
+            "title": "Masjid Darussalam Kompleks Perumahan Bosowa Permai",
+            "pict": "../img/mesjiddarussalam.jpg",
+            "desc": "Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.182523,
+                119.457460
+            ],
+            "title": "Kos Eksklusif Gedo Nusa",
+            "pict": "../img/gedonusa.jpg",
+            "desc": "Perumahan Bumi Bosowa Permai AI No.1, Jalan Minasa Upa, Minasa Upa, Rappocini, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.183977,
+                119.458393
+            ],
+            "title": "Perumahan Minasaupa Residence",
+            "pict": "../img/minasauparesidence.jpg",
+            "desc": "Gunung Sari Rappocini, Gn. Sari, Makassar, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.184407,
+                119.457376
+            ],
+            "title": "HOTEL ANAK BARUGA",
+            "pict": "../img/hotelanakbaruga.jpg",
+            "desc": "Jl. Minasa Upa Raya, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.184896,
+                119.456413
+            ],
+            "title": "Ibu Jarum",
+            "pict": "../img/ibujarum.jpg",
+            "desc": "Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.176225,
+                119.457810
+            ],
+            "title": "SPBU",
+            "pict": "../img/spbu1.jpg",
+            "desc": "Makassar, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "SPBU"
+        },
+        {
+            "cord": [
+                -5.174596,
+                119.459680
+            ],
+            "title": "Perum Taman Goysen Indah",
+            "pict": "../img/gosyen.jpg",
+            "desc": "Gn. Sari, Makassar, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.180048,
+                119.451532
+            ],
+            "title": "Mesjid Baitul Islam",
+            "pict": "../img/baitul.jpg",
+            "desc": "Jl. Karunrung Raya, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.177897,
+                119.452284
+            ],
+            "title": "Mesjid Baburrahmah",
+            "pict": "../img/baburrahmah.jpg",
+            "desc": "Makassar, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.178810,
+                119.448873
+            ],
+            "title": "Mesjid Nur Aisyah",
+            "pict": "../img/nuraisyah.jpg",
+            "desc": "Jl. KR Bonto Tangnga, Jl. Karaeng Bonto Tangnga Lrg. 1, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.181713,
+                119.450070
+            ],
+            "title": "Mesjid Babuttarbiyah",
+            "pict": "../img/babuttarbiyah.jpg",
+            "desc": "Jl. Jipang Raya No.65, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.183442,
+                119.453117
+            ],
+            "title": "SMPN 21 Makassar",
+            "pict": "../img/smpn21.jpg",
+            "desc": "Minasa Upa BI A/6, Jl. Minasa Karya, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.184510,
+                119.444799
+            ],
+            "title": "Kost Putri Alysha",
+            "pict": "../img/kosputrialysha.jpg",
+            "desc": "Jalan Bumi Blok 16 No.2A, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Penginapan"
+        },
+        {
+            "cord": [
+                -5.182213,
+                119.442679
+            ],
+            "title": "Bank Syariah Bukopin",
+            "pict": "../img/banksyariahbukopin.jpg",
+            "desc": "Jl. Sultan Alauddin No.259, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Bank"
+        },
+        {
+            "cord": [
+                -5.185686,
+                119.445474
+            ],
+            "title": "Tujuan Traveller",
+            "pict": "../img/tujuantraveller.jpg",
+            "desc": "Jalan Sultan Alauddin, Kompleks Bumi Permata Hijau Bumi 22 Blok D9 No.9, Gn. Sari, Makassar, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Travel"
+        },
+        {
+            "cord": [
+                -5.188097,
+                119.441377
+            ],
+            "title": "Polsek Rappocini",
+            "pict": "../img/polsekrappocini.jpg",
+            "desc": "Jl. Sultan Alauddin No.313, Gn. Sari, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Kantor Polisi"
+        },
+        {
+            "cord": [
+                -5.179666,
+                119.441716
+            ],
+            "title": "Kompleks Mangasa Permai",
+            "pict": "../img/mangasapermai.jpg",
+            "desc": "Jl. Talasalapang, Karunrung, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90221",
+            "type": "Pemukiman"
+        },
+        {
+            "cord": [
+                -5.166005,
+                119.446160
+            ],
+            "title": "Paroki Santo Fransiskus Assisi Makassar",
+            "pict": "../img/gerejaparoki.jpg",
+            "desc": "Jl. Letjen Hertasning No.102, Bonto Makkio, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90234",
+            "type": "Tempat Ibadah"
+        },
+        {
+            "cord": [
+                -5.166125,
+                119.446533
+            ],
+            "title": "SMP Nurkarya Tidung",
+            "pict": "../img/smpnukarya.jpg",
+            "desc": "Jl. Letjen Hertasning No.106, Bonto Makkio, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Sekolah"
+        },
+        {
+            "cord": [
+                -5.167225,
+                119.447432
+            ],
+            "title": "Lapangan Emmy Salean",
+            "pict": "../img/emmysalean.jpg",
+            "desc": "Jl. Letjen Hertasning, Bonto Makkio, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Sarana Olahraga"
+        },
+        {
+            "cord": [
+                -5.162844,
+                119.432660
+            ],
+            "title": "Rumah Sakit Islam Faisal",
+            "pict": "../img/rsislamfaisal.jpg",
+            "desc": "Jl. A. P. Pettarani, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Rumah Sakit"
+        },
+        {
+            "cord": [
+                -5.165131,
+                119.426361
+            ],
+            "title": "RSIA Ananda Makassar",
+            "pict": "../img/rsiaananda.jpg",
+            "desc": "Jl. Andi Djemma No.63, Banta-Bantaeng, Kec. Rappocini, Kota Makassar, Sulawesi Selatan 90222",
+            "type": "Rumah Sakit"
+        }
+    ]
+}
